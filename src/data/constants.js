@@ -12,7 +12,7 @@ export const Bio = {
 
   github: "https://github.com/Anukrati17Agarwal",
   resume:
-    "https://drive.google.com/file/d/1qDG_CAGYUnjcFN4mRGHK1dmTLKcpx8Fg/view?usp=sharing",
+    "https://drive.google.com/file/d/1-vAATVneTKqn8buRZHfAhRZaXCcAsuit/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anukrati-agarwal-696039235/",
   twitter: "https://x.com/anukrati50953",
   // insta: "https://www.instagram.com/rishav_chanda/",
@@ -624,8 +624,8 @@ export const projects = [
       "https://www.careerfitter.com/uploads/ckeditor/pictures/31/content_myersbriggs-larg-min600.jpg",
     tags: ["Python", "HTML", "CSS", "JS", "ML", "React"],
     category: "machine learning",
-    // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/Anukrati17Agarwal/Analysing-Personality-Traits",
+    Research: "https://doi.org/10.1145/3647444.3647892",
   },
 ];
 
