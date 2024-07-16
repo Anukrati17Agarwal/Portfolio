@@ -4,13 +4,15 @@ export const Bio = {
     "Full Stack Developer",
     "Programmer",
     "ML Ethusiast",
+   
     
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and versatile individual, an mbitious computer science student (graduation July 2025) with a solid understanding of core principles and always eager to take on new challenges.. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+
   github: "https://github.com/Anukrati17Agarwal",
   resume:
-    "https://drive.google.com/file/d/1zgsUcDehmrOjyOjGswLlQB0awZPp7OVc/view?usp=sharing",
+    "https://drive.google.com/file/d/1qDG_CAGYUnjcFN4mRGHK1dmTLKcpx8Fg/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anukrati-agarwal-696039235/",
   twitter: "https://x.com/anukrati50953",
   // insta: "https://www.instagram.com/rishav_chanda/",
@@ -570,8 +572,8 @@ export const projects = [
       "https://www.starlinkindia.com/blog/wp-content/uploads/2021/05/How-Canteen-Management-Software-Helps-Organizations.jpg",
     tags: ["HTML", "CSS", "JavaScript", "Node JS","MySQL"],
     category: "web app",
-    // github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    // webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "https://github.com/Anukrati17Agarwal/VISION-Cafeteria",
+    webapp: "http://vision-cafeteria.netlify.app",
   },
   // {
   //   id: 5,
