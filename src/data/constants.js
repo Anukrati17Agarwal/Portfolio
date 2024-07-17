@@ -12,7 +12,7 @@ export const Bio = {
 
   github: "https://github.com/Anukrati17Agarwal",
   resume:
-    "https://drive.google.com/file/d/15Ez7IZy7jOGfgb_aG9jY9eIjU9GzmpTA/view?usp=sharing",
+    "https://drive.google.com/file/d/1KcmutBtTYOiyTkAj9rt_vy4aMorJ5_Y2/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anukrati-agarwal-696039235/",
   twitter: "https://x.com/anukrati50953",
   // insta: "https://www.instagram.com/rishav_chanda/",
